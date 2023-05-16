@@ -1,0 +1,20 @@
+*
+{
+	background: #282828;
+	color: #FFFFFF;
+}
+
+h1
+{
+	font-weight: 600;
+}
+
+.mainc
+{
+	padding: 20%;
+}
+
+.mono
+{
+	font-family: monospace;
+}
